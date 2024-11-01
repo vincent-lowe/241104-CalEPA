@@ -1,2 +1,4 @@
-# 241023-UAPIM
-Repo for sharing files and data with 241023-UAPIM students
+# 241104-CalEPA
+Repo for sharing files and data with 241104-CalEPA students
+
+Some file resources can be gathered here if other sources fail.
